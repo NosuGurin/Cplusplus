@@ -1,0 +1,24 @@
+#include <iostream>
+#include <fstream>
+#include <vector>
+
+using namespace std;
+
+int main()
+{
+    ifstream y;
+    ofstream o;
+    y.open("BAI3.INP");
+    o.open("BAI3.OUT");
+    vector<int> dayso;
+    int n,k,a[30000];
+    y>>n>>k;
+    for(int i=0;i<n;i++)
+    {
+        y>>a[i];
+    }
+
+    o<<dayso[dayso.size()-2]<<" "<<dayso[dayso.size()-1];
+    y.close();
+    o.close();
+}

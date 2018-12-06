@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1465530118 source:h:\ \usb\baitap_codeblock\tongso\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	<vector>
+
+1465530206 source:d:\ \usb\baitap_codeblock\tongso\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+

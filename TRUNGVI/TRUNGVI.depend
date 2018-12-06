@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1465609050 source:i:\ \usb\baitap_codeblock\trungvi\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+

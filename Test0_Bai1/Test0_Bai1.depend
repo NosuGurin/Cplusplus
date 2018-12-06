@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1465012982 source:h:\usb\baitap_codeblock\test0_bai1\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+
